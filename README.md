@@ -1,5 +1,3 @@
-# CdeCMxWiki
-
-Repositorio de Clubes de Ciencia Wiki
+### Repositorio de Clubes de Ciencia Mexico Wiki
 
 
